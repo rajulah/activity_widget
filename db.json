@@ -31,7 +31,7 @@
         {"activity" : "Order status <a href=\"javascript:void(0)\">#placed</a>",
         "date": "30 July 5pm",
         "id": 1,
-        "status": "primary"},
+        "status": "primary"}
         
     ]
 }

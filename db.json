@@ -11,7 +11,7 @@
         {"activity" : "Return requested <a href=\"javascript:void(0)\">#ReturnRequest</a>",
         "date": "1 Aug 9am",
         "id": 1,
-        "status": "primary"},
+        "status": "success"},
         {"activity" : "Order <a href=\"javascript:void(0)\">#Delivered</a>",
         "date": "31 July 6pm",
         "id": 1,
@@ -19,7 +19,7 @@
         {"activity" : "Order <a href=\"javascript:void(0)\">#OutForDelivery</a>",
         "date": "31 July 5pm",
         "id": 1,
-        "status": "primary"},
+        "status": "success"},
         {"activity" : "Finished task <a href=\"javascript:void(0)\">#Packing</a>",
         "date": "31 July 4:45pm",
         "id": 1,
@@ -27,11 +27,11 @@
         {"activity" : "Started task <a href=\"javascript:void(0)\">#Packing</a>",
         "date": "31 July 4:30pm",
         "id": 1,
-        "status": "primary"},
+        "status": "success"},
         {"activity" : "Order status <a href=\"javascript:void(0)\">#placed</a>",
         "date": "30 July 5pm",
         "id": 1,
-        "status": "primary"}
+        "status": "success"}
         
     ]
 }

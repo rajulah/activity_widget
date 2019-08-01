@@ -3,7 +3,7 @@
         {"activity" : "Return Picked <a href=\"javascript:void(0)\">#ReturnPicked</a>",
         "date": "Just Now",
         "id": 1,
-        "status": "primary"},
+        "status": "success"},
         {"activity" : "Return status <a href=\"javascript:void(0)\">#OutForPicking</a>",
         "date": "1 Aug 2019 12pm",
         "id": 1,
